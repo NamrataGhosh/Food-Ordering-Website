@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"Double Beef Burger",
+        "Price":"$50",
+        "image":"images/images/burger.png"
+    },
+    {
+        "id":2,
+        "name":"Fried Chicken",
+        "Price":"$13.45",
+        "image":"images/images/fried-chicken.png"
+    },
+    {
+        "id":3,
+        "name":"Chicken Roll",
+        "Price":"$7.50",
+        "image":"images/images/chicken-roll.png"
+    },
+    {
+        "id":4,
+        "name":"Veggie Pizza",
+        "Price":"$7.65",
+        "image":"images/images/pizza.png"
+    },
+    {
+        "id":5,
+        "name":"Club Sandwich",
+        "Price":"$6.99",
+        "image":"images/images/sandwich.png"
+    },
+    {
+        "id":6,
+        "name":"Chicken Lasagna",
+        "Price":"$16.45",
+        "image":"images/images/lasagna.png"
+    },
+    {
+        "id":7,
+        "name":"Itallian Spaghetti",
+        "Price":"$200",
+        "image":"images/images/spaghetti.png"
+    },
+    {
+        "id":8,
+        "name":"Spring Roll",
+        "Price":"$9.31",
+        "image":"images/images/spring-roll.png"
+    }
+]
